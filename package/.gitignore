@@ -1,0 +1,5 @@
+parchlinux*
+*.zst
+src
+pkg
+
